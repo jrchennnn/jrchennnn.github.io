@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-title                    : "Chuanrui Zhang - Homepage"
+title                    : "Jiarui Chen - Homepage"
 title_separator          : "-"
-name                     : &name "Chuanrui Zhang"
+name                     : &name "Jiarui Chen"
 description              : &description "Orienteering CV"
-url                      : https://xingyoujun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jrchennnn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xingyoujun/xingyoujun.github.io"
+repository               : "jrchennnn/jrchennnn.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,19 +22,19 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "zcr.png"
-  name             : "Chuanrui Zhang"
+  name             : "Jiarui Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Orienteering 🧭"
+  bio              : # "Orienteering 🧭"
   location         : "Shenzhen China"
-  employer         : "Tsinghua University"
+  employer         : "Harbin Institute of Technology, Shenzhen"
   uri              : # URL
-  email            : "zhang-cr22@mails.tsinghua.edu.cn" 
+  email            : "jrchennnn@foxmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=sBYo2zQAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=zh-CN&user=-kyuyBYAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0008-3300-3853"
+  # orcid            : "https://orcid.org/0009-0008-3300-3853"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "xingyoujun"
+  github           : "dodododddo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
