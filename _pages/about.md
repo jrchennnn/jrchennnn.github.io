@@ -20,7 +20,12 @@ redirect_from:
 
 I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute](https://www.sii.edu.cn/) and [Fudan University](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), with an expected graduation in 2026.
 
-Currently, my research topic is 3D vision, Embodied Intelligence and Efficient AI.
+My current research interests include:
+- **Embodied Intelligence & Robotics**
+- **3D Vision**, particularly in 3D representation, with a focus on generalizable methods
+- **Efficient AI**, spanning both training and inference, with a focus on techniques such as Parameter-Efficient Fine-Tuning (PEFT)
+- **Generative AI**, particularly in 3D generation, video generation, and world models
+  
 <br>
 
 # 🔥 News
