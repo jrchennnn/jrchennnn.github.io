@@ -29,8 +29,11 @@ Currently, my research topic is 3D vision, Embodied Intelligence and Efficient A
 
 # 💻 Experience
 
-- 12/2025~9/2025, I was a visiting Student at the [IGL-HKUST](https://github.com/IGL-HKUST).
+**Visiting Student** | [IGL-HKUST](https://github.com/IGL-HKUST) | 12/2024 – 09/2025  
+Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
+**Research Intern** | ICES-HITSZ | 04/2024 – 11/2024  
+Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
 <br>
 
 # 📝 Publications 
