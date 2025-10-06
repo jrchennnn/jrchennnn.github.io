@@ -23,7 +23,7 @@ I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute](https://
 My current research interests include:
 - **Embodied Intelligence & Robotics**
 - **3D Vision**, particularly in 3D representation, with a focus on generalizable methods
-- **Efficient AI**, spanning both training and inference, with a focus on techniques such as Parameter-Efficient Fine-Tuning (PEFT)
+- **Efficient AI**, spanning both training and inference, with a focus on techniques such as Parameter-Efficient Fine-Tuning
 - **Generative AI**, particularly in 3D generation, video generation, and world models
   
 <br>
