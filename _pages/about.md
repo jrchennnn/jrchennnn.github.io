@@ -18,7 +18,8 @@ redirect_from:
 
 # 🧑 About me
 
-I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute](https://www.sii.edu.cn/) and [Fudan University](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), with an expected graduation in 2026. [CV](files/cv.pdf)
+I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and [Fudan University (FDU)](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/), with an expected graduation in 2026. 
+[CV](files/cv.pdf)
 
 My current research interests include:
 - **Embodied Intelligence & Robotics**
