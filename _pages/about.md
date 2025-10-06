@@ -18,68 +18,52 @@ redirect_from:
 
 # 🧑 About me
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in College of Electronic and Information Engineering at [Tongji University](https://en.tongji.edu.cn/). 
+I am currently an incoming Ph.D. student at [Shanghai Innovation Institute](https://www.sii.edu.cn/) and [Fudan University](https://www.fudan.edu.cn/en/) and an undergraduate student majoring in Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), graduating in 2026. 
 
-Currently, my research topic is 3D computer vision, with a particular focus on 3D object detection for autonomous driving and robot manipulation. (e.g. BEV, OCC)
-
-**I am looking for a PhD position in Fall, 2025.**
- 
-[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](files/CV_chuanruizhang.pdf)
-
+Currently, my research topic is 3D vision, Embodied Intelligence and Efficient AI.
 <br>
 
 # 🔥 News
-* 2024.12:  🎉🎉 1 paper accepted to AAAI 2025 !!!
-
+* 2025.3:  🎉🎉 1 paper accepted to CVPR 2025 !!!
 <br>
 
 # 💻 Experience
 
-- 05/2023~now, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
+- 12/2025~9/2025, I was a visiting Student at the [IGL-HKUST](https://github.com/IGL-HKUST).
 
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/megs-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](#todo)</span>
+<a href="https://megs-2.github.io/" style="font-size: 22px; color: #483D8B; text-decoration: none">**MEGS²: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**</a><br>
+<span style="font-size: 18px;">**Jiarui Chen\***, Yikeng Chen\*, Yingshuang Zou, Ye Huang, Peng Wang, Yuan Liu†, Yujing Sun†, Wenping Wang</span><br>
+<span style="font-size: 18px;">[**Website**](https://megs-2.github.io/) [**Paper**](https://arxiv.org/pdf/2509.07021)   [**Code**](https://github.com/IGL-HKUST/MEGS-2)</span>
 
-<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+<span style="font-size: 18px;"> We present MEGS², a novel 3DGS compression framework that shifts the focus from storage reduction to the critical bottleneck of rendering memory, enabling real-time performance on edge devices and in web browsers. </span>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CDRA-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang\***, Yingshuang Zou\*, Zhuoling Li, Minmin Yi, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/abs/2408.13770)   [**Code**](https://github.com/xingyoujun/transplat)</span>
+<a href="https://cvpr.thecvf.com/virtual/2025/poster/33380" style="font-size: 22px; color: #483D8B; text-decoration: none">**Sensitivity-Aware Efficient Fine-Tuning via Compact Dynamic-Rank Adaptation**</a><br>
+<span style="font-size: 18px;">Tianxing Chen, **Jiarui Chen**, Baoquan Zhang\*, Zhehao Yu, Shidong Chen, Rui Ye, Xutao Li, Yunming Ye</span><br>
+<span style="font-size: 18px;">[**Paper**](https://cvpr.thecvf.com/virtual/2025/poster/33380)</span>
 
-<span style="font-size: 18px;">-  We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
-
-</div>
-</div>
-
-# 📄 Preprint Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/voxelformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2304.01054" style="font-size: 22px; color: #483D8B; text-decoration: none">**VoxelFormer: Bird’s-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection**</a><br>
-<span style="font-size: 18px;">Zhuoling Li\*, **Chuanrui Zhang\***, Wei-Chiu Ma, Yipin Zhou, Linyan Huang, Haoqian Wang†, SerNam Lim, Hengshuang Zhao†</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2304.01054)   [**Code**](https://github.com/Lizhuoling/VoxelFormer-public)</span>
-
-<span style="font-size: 18px;">-  We introduce Dual-View Attention, a more effecient cross attention for Multi-view 3D Object Detection.</span>
+<span style="font-size: 18px;"> We present CDRA-SPT, a novel PEFT method that harnesses the complementary strengths of selection-based and reparameterization-based approaches. </span>
 
 </div>
 </div>
 
 # 🏆 Honors and Awards
+<!-- - National Scholarship, 2025. -->
+- Tat-Seng Chua Scholarship, Harbin Institute of Technology, Shenzhen, 2025. (8 undergraduate per year)
+- First-Prize Academic Scholarship, Harbin Institute of Technology, Shenzhen, 2024. (top 5%)
+- National Second Prize, 19th Challenge Cup Special Competition, 2024. (Team Leader)
+- National First Prize, China Undergraduate Mathematical Contest in Modeling, 2023. (top 0.5%)
 
-- Scholarship, Tsinghua University, 2023.
-- Excellent Graduates, Shanghai, 2022.
-- Scholarship, Tongji University, 2019-2022.
-- Nation Scholarship, 2018.
+

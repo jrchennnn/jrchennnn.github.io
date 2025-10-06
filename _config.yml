@@ -21,12 +21,12 @@ google_scholar_stats_use_cdn : true
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zcr.png"
-  name             : "Jiarui Chen"
+  avatar           : "profile.png"
+  name             : "Jiarui Chen | 陈佳锐"
   pronouns         : # example: "she/her"  
-  bio              : # "Orienteering 🧭"
-  location         : "Shenzhen China"
-  employer         : "Harbin Institute of Technology, Shenzhen"
+  bio              : "Just here for the walk. 🚶‍♂️"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
   email            : "jrchennnn@foxmail.com" 
 
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/wen-zhong-dai-pi-94-17
 
 
 # Site Settings
