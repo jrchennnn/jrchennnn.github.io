@@ -18,7 +18,7 @@ redirect_from:
 
 # 🧑 About me
 
-I am currently an incoming Ph.D. student at [Shanghai Innovation Institute](https://www.sii.edu.cn/) and [Fudan University](https://www.fudan.edu.cn/en/) and an undergraduate student majoring in Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), graduating in 2026. 
+I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute](https://www.sii.edu.cn/) and [Fudan University](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), with an expected graduation in 2026.
 
 Currently, my research topic is 3D vision, Embodied Intelligence and Efficient AI.
 <br>
@@ -30,10 +30,10 @@ Currently, my research topic is 3D vision, Embodied Intelligence and Efficient A
 # 💻 Experience
 
 - **Visiting Student** | [IGL-HKUST](https://github.com/IGL-HKUST) | 12/2024 – 09/2025  
-Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
+  Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
 - **Research Intern** | ICES-HITSZ | 04/2024 – 11/2024  
-Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
+  Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
 <br>
 
 # 📝 Publications 
