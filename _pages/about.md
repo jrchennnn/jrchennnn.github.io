@@ -31,7 +31,9 @@ My current research interests include:
 <br>
 
 # 🔥 News
-* 2025.3:  🎉🎉 1 paper accepted to CVPR 2025 !!!
+* 2025.10:  Awarded the **National Scholarship**
+* 2025.03:  Awarded the **Tat-Seng Chua Scholarship**
+* 2025.03:  🎉🎉 1 paper accepted to CVPR 2025 !!!
 <br>
 
 # 💻 Experience
@@ -70,11 +72,10 @@ My current research interests include:
 </div>
 
 # 🏆 Honors and Awards
-<!-- - National Scholarship, 2025. -->
-- National Scholarship, 2025. (top 0.2% nationwide in China, top 0.4% in HITSZ)
+- National Scholarship, 2025. (Top 0.2% nationwide in China & Top 0.4% in HITSZ)
 - Tat-Seng Chua Scholarship, Harbin Institute of Technology, Shenzhen, 2025. (8 undergraduates per year)
-- First-Prize Academic Scholarship, Harbin Institute of Technology, Shenzhen, 2024. (top 5%)
+- First-Prize Academic Scholarship, Harbin Institute of Technology, Shenzhen, 2024. (Top 5%)
 - National Second Prize, 19th Challenge Cup Special Competition, 2024. (Team Leader)
-- National First Prize, China Undergraduate Mathematical Contest in Modeling, 2023. (top 0.5%)
+- National First Prize, China Undergraduate Mathematical Contest in Modeling, 2023. (Top 0.5%)
 
 
