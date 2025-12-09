@@ -41,11 +41,11 @@ My current research interests include:
 - **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – Now
 
 - **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025
-  Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
+Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
 - **Research Intern** \| HITSZ \| 04/2024 – 11/2024
-  Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
-
+Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
+  
 <br>
 
 # 📝 Publications 
