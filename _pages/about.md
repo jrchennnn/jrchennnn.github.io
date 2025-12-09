@@ -18,9 +18,9 @@ redirect_from:
 
 # 🧑 About me
 
-I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and [Fudan University (FDU)](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/), with an expected graduation in 2026. 
+I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and [Fudan University (FDU)](https://www.fudan.edu.cn/en/), concurrently completing my undergraduate studies in Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/), with an expected graduation in 2026. Currently, I am a Research Intern at the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), dedicated to developing next-generation efficient architectures for 3D generation.
 
-[CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf)
+<!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
 My current research interests include:
 - **Embodied Intelligence & Robotics**
@@ -31,12 +31,14 @@ My current research interests include:
 <br>
 
 # 🔥 News
+* 2025.12:  🚀 Selected as Tencent Qingyun Program Intern
 * 2025.10:  Awarded the **National Scholarship**
 * 2025.03:  Awarded the **Tat-Seng Chua Scholarship**
 * 2025.03:  🎉🎉 1 paper accepted to CVPR 2025 !!!
 <br>
 
 # 💻 Experience
+- **Research Intern (Qingyun Program)** | [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) | 12/2025 – Now
 
 - **Visiting Student** | [IGL-HKUST](https://github.com/IGL-HKUST) | 12/2024 – 09/2025  
   Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
