@@ -45,6 +45,7 @@ My current research interests include:
 
 - **Research Intern** | HITSZ | 04/2024 – 11/2024  
   Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
+  
 <br>
 
 # 📝 Publications 
