@@ -31,7 +31,7 @@ My current research interests include:
 <br>
 
 # 🔥 News
-* 2025.12:  🚀 Selected as Tencent Qingyun Program Intern
+* 2025.12:  🚀 Selected as Tencent **Qingyun Program** Intern
 * 2025.10:  Awarded the **National Scholarship**
 * 2025.03:  Awarded the **Tat-Seng Chua Scholarship**
 * 2025.03:  🎉🎉 1 paper accepted to CVPR 2025 !!!
@@ -40,11 +40,9 @@ My current research interests include:
 # 💻 Experience
 - **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – Now
 
-- **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025
-Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
+- **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025, Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
-- **Research Intern** \| HITSZ \| 04/2024 – 11/2024
-Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
+- **Research Intern** \| HITSZ \| 04/2024 – 11/2024, Mentored by Prof. [Baoquan Zhang](https://zhangbq-research.github.io/) and Prof. [Yunming Ye](https://homepage.hit.edu.cn/yeyunming)
   
 <br>
 
