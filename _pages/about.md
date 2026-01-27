@@ -31,6 +31,7 @@ My current research interests include:
 <br>
 
 # 🔥 News
+* 2026.01:  🎉🎉 1 paper accepted to ICLR 2026 !!!
 * 2025.12:  🚀 Selected as Tencent **Qingyun Program** Intern
 * 2025.10:  Awarded the **National Scholarship**
 * 2025.03:  Awarded the **Tat-Seng Chua Scholarship**
@@ -48,7 +49,7 @@ My current research interests include:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/megs-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/megs-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://megs-2.github.io/" style="font-size: 22px; color: #483D8B; text-decoration: none">**MEGS²: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**</a><br>
