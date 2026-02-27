@@ -53,7 +53,7 @@ My current research interests include:
 
 <a href="https://arxiv.org/pdf/2602.13993" style="font-size: 22px; color: #483D8B; text-decoration: none">**Elastic Diffusion Transformer**</a><br>
 <span style="font-size: 18px;">Jiangshan Wang, Zeqiang Lai\*, **Jiarui Chen**, Jiayi Guo, Hang Guo, Xiu Li, Xiangyu Yue\*, Chunchao Guo\*</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/pdf/2509.07021)   [**Code (Coming soon)**](https://github.com/wangjiangshan0725/Elastic-DiT)</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/pdf/2509.07021)   [**Code**](https://github.com/wangjiangshan0725/Elastic-DiT)</span>
 
 <span style="font-size: 18px;"> We present Elastic Diffusion Transformer (E-DiT), which achieves ~2× acceleration by dynamically allocating computation (depth and width) based on sample-dependent sparsity. </span>
 
