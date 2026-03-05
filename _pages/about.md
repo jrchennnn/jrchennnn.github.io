@@ -52,7 +52,7 @@ My current research interests include:
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/pdf/2602.13993" style="font-size: 22px; color: #483D8B; text-decoration: none">**Elastic Diffusion Transformer**</a><br>
-<span style="font-size: 18px;">Jiangshan Wang, Zeqiang Lai\*, **Jiarui Chen**, Jiayi Guo, Hang Guo, Xiu Li, Xiangyu Yue\*, Chunchao Guo\*</span><br>
+<span style="font-size: 18px;">Jiangshan Wang, Zeqiang Lai†, **Jiarui Chen**, Jiayi Guo, Hang Guo, Xiu Li, Xiangyu Yue\*, Chunchao Guo\*</span><br>
 <span style="font-size: 18px;">[**Paper**](https://arxiv.org/pdf/2509.07021)   [**Code**](https://github.com/wangjiangshan0725/Elastic-DiT)</span>
 
 <span style="font-size: 18px;"> We present Elastic Diffusion Transformer (E-DiT), which achieves ~2× acceleration by dynamically allocating computation (depth and width) based on sample-dependent sparsity. </span>
@@ -76,7 +76,7 @@ My current research interests include:
 <div class='paper-box-text' markdown="1">
 
 <a href="https://cvpr.thecvf.com/virtual/2025/poster/33380" style="font-size: 22px; color: #483D8B; text-decoration: none">**Sensitivity-Aware Efficient Fine-Tuning via Compact Dynamic-Rank Adaptation**</a><br>
-<span style="font-size: 18px;">Tianxing Chen, **Jiarui Chen**, Baoquan Zhang\*, Zhehao Yu, Shidong Chen, Rui Ye, Xutao Li, Yunming Ye</span><br>
+<span style="font-size: 18px;">Tianran Chen, **Jiarui Chen**, Baoquan Zhang\*, Zhehao Yu, Shidong Chen, Rui Ye, Xutao Li, Yunming Ye</span><br>
 <span style="font-size: 18px;">[**Paper**](https://cvpr.thecvf.com/virtual/2025/poster/33380)</span>
 
 <span style="font-size: 18px;"> We present CDRA-SPT, a novel PEFT method that harnesses the complementary strengths of selection-based and reparameterization-based approaches. </span>
