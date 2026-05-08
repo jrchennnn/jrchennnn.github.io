@@ -48,7 +48,7 @@ My current research interests include:
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/e-dit-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/e-dit-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/pdf/2602.13993" style="font-size: 22px; color: #483D8B; text-decoration: none">**Elastic Diffusion Transformer**</a><br>
