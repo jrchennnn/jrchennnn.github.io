@@ -23,10 +23,10 @@ I am an incoming Ph.D. candidate at the [Shanghai Innovation Institute (SII)](ht
 <!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
 My current research interests include:
-- **Embodied Intelligence & Robotics**
-- **3D Vision**, particularly in 3D representation, with a focus on generalizable methods
-- **Efficient AI**, spanning both training and inference, with a focus on techniques such as Parameter-Efficient Fine-Tuning
-- **Generative AI**, particularly in 3D generation, video generation, and world models
+- **Embodied Intelligence & Robotics**: Scalable generative simulation
+- **3D Vision & Graphics**: Better 3D representation
+- **Efficient AI**: Hardware-aligned efficient attention mechanisms for long-context generation
+- **Generative AI**: 3D generation, video generation, and world models
   
 <br>
 
