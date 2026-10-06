@@ -56,7 +56,7 @@ My current research interests include:
 <span style="font-size: 18px;">**Jiarui Chen**, Zeqiang Lai†, Jiangshan Wang, Ziheng Ouyang, Ye Huang, Xiangyu Yue, Cewu Lu\*, Chunchao Guo\*</span><br>
 <span style="font-size: 18px;">[**Website**](https://dodododddo.github.io/mcsparse-project-page/) [**Paper**](https://arxiv.org/abs/2610.06801) [**Code**](https://github.com/dodododddo/mcsparse)</span>
 
-<span style="font-size: 18px;"> We present MC-Sparse, a training-free, token-level sparse attention framework. We analyze three sources of the dense–sparse attention gap—structural binding error, selection error, and discarded tail error—and mitigate them through flexible token-level selection, exact attention-based scoring, and cached residual correction, respectively. </span>
+<span style="font-size: 18px;"> We present MC-Sparse, a training-free, <strong>token-level</strong> sparse attention framework. We analyze three sources of the gap between dense and sparse attention and address each in turn, achieving 1.80× denoising speedup for video generation and 2.32× for 3D asset generation. </span>
 
 </div>
 </div>
