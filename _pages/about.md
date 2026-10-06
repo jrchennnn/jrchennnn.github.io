@@ -49,7 +49,7 @@ My current research interests include:
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/mcsparse-teaser.png' alt="MC-Sparse video and 3D generation results" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/mcsparse-errors.svg' alt="Three sources of the dense–sparse attention gap: structural binding error, selection error, and discarded tail error" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dodododddo.github.io/mcsparse-project-page/" style="font-size: 22px; color: #483D8B; text-decoration: none">**MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers**</a><br>
