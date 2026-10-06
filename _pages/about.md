@@ -18,7 +18,7 @@ redirect_from:
 
 # 🧑 About me
 
-I am a Ph.D. student at the [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/) and [Fudan University (FDU)](https://www.fudan.edu.cn/en/), where I began my doctoral studies in September 2026. Previously, I studied Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). From December 2025 to September 2026, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation.
+I am a Ph.D. student at the [Fudan University (FDU)](https://www.fudan.edu.cn/en/) and [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/), where I began my doctoral studies in September 2026. Previously, I studied Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). From December 2025 to September 2026, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation.
 
 <!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
@@ -31,7 +31,7 @@ My current research interests include:
 <br>
 
 # 🔥 News
-* 2026.09: Started my Ph.D. studies at **Fudan University** and **Shanghai Innovation Institute**.
+* 2026.10: 🚀 We have open-sourced [**MC-Sparse**](https://github.com/dodododddo/mcsparse)!
 * 2026.01:  🎉🎉 1 paper accepted to ICLR 2026 !!!
 * 2025.12:  🚀 Selected as Tencent **Qingyun Program** Intern
 * 2025.10:  Awarded the **National Scholarship**
@@ -56,7 +56,7 @@ My current research interests include:
 <span style="font-size: 18px;">**Jiarui Chen**, Zeqiang Lai†, Jiangshan Wang, Ziheng Ouyang, Ye Huang, Xiangyu Yue, Cewu Lu\*, Chunchao Guo\*</span><br>
 <span style="font-size: 18px;">[**Website**](https://dodododddo.github.io/mcsparse-project-page/) [**Paper**](https://arxiv.org/abs/2610.06801) [**Code**](https://github.com/dodododddo/mcsparse)</span>
 
-<span style="font-size: 18px;"> We present MC-Sparse, a training-free sparse attention framework that caches token selections and dense–sparse residuals across denoising steps, achieving 1.80× video and 2.32× 3D denoising speedups with negligible quality loss. </span>
+<span style="font-size: 18px;"> We present MC-Sparse, a training-free, token-level sparse attention framework. We analyze three sources of the dense–sparse attention gap—structural binding error, selection error, and discarded tail error—and mitigate them through flexible token-level selection, exact attention-based scoring, and cached residual correction, respectively. </span>
 
 </div>
 </div>
