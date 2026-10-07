@@ -49,7 +49,7 @@ My current research interests include:
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/mcsparse-magnifiers.webp" target="_blank" rel="noopener"><img src='images/mcsparse-magnifiers.webp' alt="MC-Sparse: original three-frame diagonal Dense/Ours video comparisons alongside a complete mechanical beetle rendered from Ours, with matching Dense and Ours circular magnifications of the boxed gear region. Both meshes use identical camera, material, and lighting." width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/mcsparse-video-3d.webp" target="_blank" rel="noopener"><img src='images/mcsparse-video-3d.webp' alt="MC-Sparse video and mechanical beetle results. Ours overview above, matching Dense and Ours details below. Video overview at 0 seconds and details at 11.5 seconds; 3D meshes rendered with identical camera, material, and lighting." width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dodododddo.github.io/mcsparse-project-page/" style="font-size: 22px; color: #483D8B; text-decoration: none">**MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers**</a><br>
