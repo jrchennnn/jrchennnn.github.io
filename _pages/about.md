@@ -61,7 +61,7 @@ My current research interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/position-forcing-overview.webp' alt="Position Forcing: recovering spatial positions from geometry latents and using clean-state positional self-conditioning" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/position-forcing-stacked.webp' alt="Position Forcing: recovering spatial positions from geometry latents and using clean-state positional self-conditioning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://ouyangziheng.github.io/Position-Forcing-Page/" style="font-size: 22px; color: #483D8B; text-decoration: none">**Position Forcing: Self-Conditioning 3D Generation**</a><br>
