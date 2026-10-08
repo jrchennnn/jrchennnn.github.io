@@ -18,9 +18,7 @@ redirect_from:
 
 # 🧑 About me
 
-I am a first-year Ph.D. student at [Fudan University (FDU)](https://www.fudan.edu.cn/en/) and [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/), supervised by Prof. [Cewu Lu](https://www.qingyuan.sjtu.edu.cn/a/Cewu-Lu.html). I received my B.S. in Computer Science and Technology from [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). Previously, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation.
-
-I am currently a Research Intern at [Noematrix](https://www.noematrix.ai/), building scalable world-action models trained entirely on robot-free human demonstration data, including UMI demonstrations and egocentric videos.
+I am a first-year Ph.D. student at [Fudan University (FDU)](https://www.fudan.edu.cn/en/) and [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/), supervised by Prof. [Cewu Lu](https://www.qingyuan.sjtu.edu.cn/a/Cewu-Lu.html). I received my B.S. in Computer Science and Technology from [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). Previously, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation. I am currently a Research Intern at [Noematrix](https://www.noematrix.ai/), building scalable world-action models trained entirely on robot-free data.
 
 <!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
@@ -43,8 +41,6 @@ My current research interests include:
 
 # 💻 Experience
 - **Research Intern** \| [Noematrix](https://www.noematrix.ai/) \| 10/2026 – Present
-
-  Building scalable world-action models trained entirely on robot-free human demonstration data, including UMI demonstrations and egocentric videos.
 
 - **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026
 
