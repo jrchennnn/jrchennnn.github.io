@@ -23,7 +23,7 @@ I am a first-year Ph.D. student at [Fudan University (FDU)](https://www.fudan.ed
 <!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
 My current research interests include:
-- **Embodied Intelligence & Robotics**: Scalable generative simulation
+- **Embodied Intelligence & Robotics**: Anything that helps scale embodied AI
 - **3D Vision & Graphics**: Better 3D representation
 - **Efficient AI**: Hardware-aligned efficient attention mechanisms for long-context generation
 - **Generative AI**: 3D generation, video generation, and world models
@@ -42,7 +42,7 @@ My current research interests include:
 # 💻 Experience
 - **Research Intern** \| [Noematrix](https://www.noematrix.ai/) \| 10/2026 – Present, Mentored by [Wendi Chen](https://wendichen.me/)
 
-- **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026, Mentored by [Zeqiang Lai](https://zeqiang-lai.github.io/) and [Chunchao Guo](https://sa2025.conference-schedule.org/contributor/?uid=9990288653133639651)
+- **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026, Mentored by [Zeqiang Lai](https://zeqiang-lai.github.io/)
 
 - **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025, Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
