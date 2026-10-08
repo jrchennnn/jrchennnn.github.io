@@ -40,9 +40,9 @@ My current research interests include:
 <br>
 
 # 💻 Experience
-- **Research Intern** \| [Noematrix](https://www.noematrix.ai/) \| 10/2026 – Present
+- **Research Intern** \| [Noematrix](https://www.noematrix.ai/) \| 10/2026 – Present, Mentored by [Wendi Chen](https://wendichen.me/)
 
-- **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026
+- **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026, Mentored by [Zeqiang Lai](https://zeqiang-lai.github.io/) and [Chunchao Guo](https://sa2025.conference-schedule.org/contributor/?uid=9990288653133639651)
 
 - **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025, Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
 
