@@ -18,7 +18,9 @@ redirect_from:
 
 # 🧑 About me
 
-I am a Ph.D. student at the [Fudan University (FDU)](https://www.fudan.edu.cn/en/) and [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/), where I began my doctoral studies in September 2026. Previously, I studied Computer Science and Technology at the [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). From December 2025 to September 2026, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation.
+I am a first-year Ph.D. student at [Fudan University (FDU)](https://www.fudan.edu.cn/en/) and [Shanghai Innovation Institute (SII)](https://www.sii.edu.cn/), supervised by Prof. [Cewu Lu](https://www.qingyuan.sjtu.edu.cn/a/Cewu-Lu.html). I received my B.S. in Computer Science and Technology from [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/). Previously, I was a Research Intern in the Qingyun Program with the [Tencent Hunyuan3D team](https://3d.hunyuan.tencent.com/), working on efficient architectures for 3D generation.
+
+I am currently a Research Intern at [Noematrix](https://www.noematrix.ai/), building scalable world-action models trained entirely on robot-free human demonstration data, including UMI demonstrations and egocentric videos.
 
 <!-- [CV](files/cv_en.pdf)   [简历](files/cv_zh.pdf) -->
 
@@ -40,6 +42,10 @@ My current research interests include:
 <br>
 
 # 💻 Experience
+- **Research Intern** \| [Noematrix](https://www.noematrix.ai/) \| 10/2026 – Present
+
+  Building scalable world-action models trained entirely on robot-free human demonstration data, including UMI demonstrations and egocentric videos.
+
 - **Research Intern (Qingyun Program)** \| [Hunyuan3D, Tencent](https://3d.hunyuan.tencent.com/) \| 12/2025 – 09/2026
 
 - **Visiting Student** \| [IGL-HKUST](https://github.com/IGL-HKUST) \| 12/2024 – 09/2025, Mentored by Prof. [Yuan Liu](https://liuyuan-pal.github.io/)
@@ -49,7 +55,7 @@ My current research interests include:
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/mcsparse-side-view.webp" target="_blank" rel="noopener"><img src='images/mcsparse-side-view.webp' alt="MC-Sparse: original three-frame diagonal Dense/Ours video comparisons alongside a complete mechanical beetle rendered from Ours at a near-eye-level side angle, with staggered Dense and Ours circular magnifications of the marked gear region. Both meshes use identical camera, material, and lighting." width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/mcsparse-side-view.webp" target="_blank" rel="noopener"><img src='images/mcsparse-side-view.webp' alt="MC-Sparse: original three-frame diagonal Dense/Ours video comparisons alongside a complete mechanical beetle rendered from Ours at a near-eye-level side angle on a gray studio floor with soft shadows, with staggered Dense and Ours circular magnifications of the marked gear region. Both meshes use identical camera, material, and lighting." width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dodododddo.github.io/mcsparse-project-page/" style="font-size: 22px; color: #483D8B; text-decoration: none">**MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers**</a><br>
@@ -122,6 +128,9 @@ My current research interests include:
 </div>
 
 # 🏆 Honors and Awards
+
+## During My Undergraduate Studies
+
 - National Scholarship, 2025. (Top 0.2% nationwide in China & Top 0.4% in HITSZ)
 - Tat-Seng Chua Scholarship, Harbin Institute of Technology, Shenzhen, 2025. (8 undergraduates per year)
 - First-Prize Academic Scholarship, Harbin Institute of Technology, Shenzhen, 2024. (Top 5%)
