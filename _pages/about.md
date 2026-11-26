@@ -31,6 +31,9 @@ My current research interests include:
 <br>
 
 # 🔥 News
+* 2026.11: 🚀 We released [**RSI-Infra Bench (Preview)**](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/), evaluating long-horizon AI infrastructure optimization on real training workloads. [Leaderboard](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/leaderboard/)
+* 2026.11: ⚡ We released a **Lite Harness update** for [**ResearchBoost-Agent**](https://github.com/DAGroup-PKU/ResearchBoost-Agent/pull/12), making in-loop evaluation lighter while keeping a separate final correctness and speed check.
+* 2026.10: 🚀 We open-sourced [**ResearchBoost-Agent (RBA)**](https://github.com/DAGroup-PKU/ResearchBoost-Agent), an autonomous agent for accelerating AI training code with verified speedups. [More projects]({{ '/projects/' | relative_url }})
 * 2026.10: 🚀 We have open-sourced [**MC-Sparse**](https://github.com/dodododddo/mcsparse)!
 * 2026.01:  🎉🎉 1 paper accepted to ICLR 2026 !!!
 * 2025.12:  🚀 Selected as Tencent **Qingyun Program** Intern
@@ -50,7 +53,22 @@ My current research interests include:
   
 <br>
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://anson2333.github.io/foresight-forcing/"><img src='{{ "/images/foresight-forcing-teaser.svg" | relative_url }}' alt="Foresight Forcing: learning spatial transitions from a frozen 3D teacher to guide robotic manipulation" width="100%" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://anson2333.github.io/foresight-forcing/" style="font-size: 22px; color: #483D8B; text-decoration: none">**Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation**</a><br>
+<span style="font-size: 18px;">Mishuo Han, Zhixuan Liang, Zhaoyuan Wan, Wendi Chen, **Jiarui Chen**, Xinkai Wang, Yue Ma, Yu Zhou, Junting Chen, Yao Mu, Jun Lv, Chuan Wen, Cewu Lu</span><br>
+<span style="font-size: 18px;">[**Website**](https://anson2333.github.io/foresight-forcing/) [**Paper**](https://arxiv.org/abs/2611.30963) [**Code**](https://github.com/anson2333/ForesightForcing)</span>
+
+<span style="font-size: 18px;">We present Foresight Forcing, a world action model that learns spatial transition queries from a frozen 3D teacher to guide robotic manipulation. The policy anticipates task-relevant geometric changes without requiring future observations or the 3D teacher at deployment.</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/mcsparse-side-view.webp" target="_blank" rel="noopener"><img src='images/mcsparse-side-view.webp' alt="MC-Sparse: original three-frame diagonal Dense/Ours video comparisons alongside a complete mechanical beetle rendered from Ours at a near-eye-level side angle on a gray studio floor with soft shadows, with staggered Dense and Ours circular magnifications of the marked gear region. Both meshes use identical camera, material, and lighting." width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 

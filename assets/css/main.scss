@@ -88,6 +88,65 @@
 }
 
 $scroll_offset : 2em;
+.research-projects {
+    margin: 1.5em 0 2em;
+}
+
+.research-project {
+    margin-bottom: 1.5em;
+    border: 1px solid #e6e6ed;
+    border-radius: 8px;
+    overflow: hidden;
+
+    &__image {
+        display: block;
+        background: #f7f7fa;
+
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+            margin: 0;
+        }
+    }
+
+    &__body { padding: 1.25em 1.5em; }
+
+    &__category {
+        margin: 0 0 .6em;
+        color: #5b5b69;
+        font-size: .8rem;
+    }
+
+    h2 {
+        margin: 0 0 .6em;
+        padding: 0;
+        border: 0;
+        font-size: 1.25rem;
+
+        a { color: #483d8b; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    }
+
+    &__subtitle { font-weight: 600; }
+
+    &__links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5em 1.25em;
+        margin: 1em 0 0;
+        padding: 0;
+        list-style: none;
+
+        li { margin: 0; padding: 0; }
+        a { font-weight: 600; }
+    }
+
+    @media (max-width: 600px) {
+        &__body { padding: 1em; }
+    }
+}
+
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
