@@ -33,7 +33,7 @@ My current research interests include:
 # 🔥 News
 * 2026.11: 🚀 We released [**RSI-Infra Bench (Preview)**](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/), evaluating long-horizon AI infrastructure optimization on real training workloads. [Leaderboard](https://ai4ai-for-anything.github.io/blog/rsi-infra-bench/leaderboard/)
 * 2026.11: ⚡ We released a **Lite Harness update** for [**ResearchBoost-Agent**](https://github.com/DAGroup-PKU/ResearchBoost-Agent/pull/12), making in-loop evaluation lighter while keeping a separate final correctness and speed check.
-* 2026.10: 🚀 We open-sourced [**ResearchBoost-Agent (RBA)**](https://github.com/DAGroup-PKU/ResearchBoost-Agent), an autonomous agent for accelerating AI training code with verified speedups. [More projects]({{ '/projects/' | relative_url }})
+* 2026.10: 🚀 We open-sourced [**ResearchBoost-Agent (RBA)**](https://github.com/DAGroup-PKU/ResearchBoost-Agent), an autonomous agent for accelerating AI training code with verified speedups. [More projects]({{ '/' | relative_url }}#projects)
 * 2026.10: 🚀 We have open-sourced [**MC-Sparse**](https://github.com/dodododddo/mcsparse)!
 * 2026.01:  🎉🎉 1 paper accepted to ICLR 2026 !!!
 * 2025.12:  🚀 Selected as Tencent **Qingyun Program** Intern
@@ -53,11 +53,19 @@ My current research interests include:
   
 <br>
 
+<span class='anchor' id='projects'></span>
+
+# 🚀 Projects
+
+{% include research-projects.html %}
+
+<br>
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://anson2333.github.io/foresight-forcing/"><img src='{{ "/images/foresight-forcing-teaser.svg" | relative_url }}' alt="Foresight Forcing: learning spatial transitions from a frozen 3D teacher to guide robotic manipulation" width="100%" loading="lazy"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://anson2333.github.io/foresight-forcing/"><img src='{{ "/images/foresight-forcing-stacked.svg" | relative_url }}' alt="Foresight Forcing: future-point visualization from Figure 4(b), above six real-world task scenes from Figure 6" width="100%" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://anson2333.github.io/foresight-forcing/" style="font-size: 22px; color: #483D8B; text-decoration: none">**Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation**</a><br>
